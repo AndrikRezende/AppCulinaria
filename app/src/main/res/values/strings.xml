@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AppCulinaria</string>
+    <string name="receita">Receita de</string>
+    <string name="ingredientes">Lista de ingredientes</string>
+    <string name="botao_anterior">Anterior</string>
+    <string name="botao_proximo">Proximo</string>
+    <string name="sem_internet">Sem conexão com a internet</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="appwidget_text">Adicione uma receita</string>
+    <string name="add_widget">Add widget</string>
+</resources>
